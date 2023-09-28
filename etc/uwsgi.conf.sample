@@ -5,6 +5,7 @@
 # a standalone instance, e.g. under supervisord using
 # 'uwsgi --ini /path/to/wagtail.ini'.
 #
+
 # This configuration assumes an application called 'mywagtail', running under
 # the 'mywagtail' user account, with the application deployed in
 # /home/mywagtail/app and the virtualenv in /home/mywagtail/venv.
