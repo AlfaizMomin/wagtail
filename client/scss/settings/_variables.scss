@@ -3,7 +3,6 @@
 // STATIC_URL setting. Instead, relative paths from the final location of the
 // compiled CSS files are used.
 // */
-
 $static-root: '../../';
 $images-root: $static-root + 'wagtailadmin/images/';
 $font-root: '../../wagtailadmin/fonts/';
