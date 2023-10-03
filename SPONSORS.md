@@ -1,4 +1,3 @@
-
 # Sponsors
 
 The following organisations and individuals supported the [Wagtail's First Hatch](https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch) crowdfunding campaign:
