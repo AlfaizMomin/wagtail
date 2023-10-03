@@ -1,4 +1,5 @@
 
+
 # Delete old translation sources
 find ../wagtail -iname *.po -iwholename */en/* -delete
 
