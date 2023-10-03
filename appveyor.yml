@@ -1,7 +1,6 @@
 services:
   - mssql2016
 
-
 environment:
   matrix:
     - TOXENV: py35-dj111-sqlite-noelasticsearch
