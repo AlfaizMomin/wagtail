@@ -6,6 +6,7 @@ from operator import itemgetter
 
 import l18n
 
+
 from django import forms
 from django.contrib.auth import get_user_model
 from django.db.models.fields import BLANK_CHOICE_DASH
