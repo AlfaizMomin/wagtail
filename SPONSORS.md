@@ -2,7 +2,6 @@
 
 The following organisations and individuals supported the [Wagtail's First Hatch](https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch) crowdfunding campaign:
 
-
 - [Springload](https://springload.nz/)
 - [NetFM](https://netfm.org/)
 - [Ambient Innovation](https://ambient-innovation.com/)
