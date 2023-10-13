@@ -4,6 +4,7 @@ class APIField:
         self.name = name
         self.serializer = serializer
 
+    
     def __hash__(self):
         return hash(self.name)
 
