@@ -7,6 +7,7 @@ var srcDir = 'static_src';
 var destDir = 'static';
 
 
+
 var App = function(dir, options) {
     this.dir = dir;
     this.options = options || {};
